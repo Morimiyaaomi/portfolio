@@ -36,7 +36,8 @@ body {
 }
 
 /* [Profile]のスタイルシート */
-.iteem-list {
+
+.item-list {
   width: 100%;
   max-width: 348px;
   margin: 0 auto;
